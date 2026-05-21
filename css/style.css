@@ -91,7 +91,7 @@ nav .nav-link {
 
 /* start of home section */
 #home {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url(../images/homeImage.png);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url(../images/home.jpeg);
   height: 100vh;
 
   background-size: cover;
